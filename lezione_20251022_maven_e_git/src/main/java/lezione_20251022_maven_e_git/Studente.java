@@ -2,7 +2,7 @@ package lezione_20251022_maven_e_git;
 
 public class Studente {
 
-	
+	//questa è la matricola
 	private String matricola;
 	private String nome;
 	private String cognome;
