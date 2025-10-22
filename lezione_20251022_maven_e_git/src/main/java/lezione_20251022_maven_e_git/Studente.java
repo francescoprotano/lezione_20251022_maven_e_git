@@ -42,7 +42,7 @@ public class Studente {
 	}
 	@Override
 	public String toString() {
-		// TODO Auto-generated method stub
+		// questo commento l'ho scritto
 		return super.toString();
 	}
 	
