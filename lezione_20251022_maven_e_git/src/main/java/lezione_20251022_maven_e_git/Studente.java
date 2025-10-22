@@ -30,6 +30,10 @@ public class Studente {
 		this.nome = nome;
 		this.cognome = cognome;
 	}
+	public Studente() {
+		super();
+		
+	}
 	@Override
 	public int hashCode() {
 		// TODO Auto-generated method stub

@@ -3,4 +3,28 @@
   <groupId>it.exolab.maven</groupId>
   <artifactId>lezione_20251022_maven_e_git</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  
+  <dependencies>
+	        <!-- JUnit 5 -->
+	        <dependency>
+	            <groupId>org.junit.jupiter</groupId>
+	            <artifactId>junit-jupiter</artifactId>
+	            <version>5.9.3</version>
+	            <scope>test</scope>
+	        </dependency>
+	        
+	        
+	        <dependency>
+	    <groupId>it.exolab.maven</groupId>
+	    <artifactId>wrapper_scanner</artifactId>
+	    <version>0.0.1-SNAPSHOT</version>
+	    <scope>system</scope>
+	    <systemPath>C:/dev/java/libraries/maven_exolab_utils.jar</systemPath>
+	</dependency>
+</dependencies>
+
+
+
 </project>
